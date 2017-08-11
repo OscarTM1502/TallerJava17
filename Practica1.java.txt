@@ -1,0 +1,7 @@
+class practica1
+{
+public static void main[]  arg,int argv)
+{
+system.out.println(HOLA):
+ }
+ }
