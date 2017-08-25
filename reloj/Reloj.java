@@ -14,7 +14,7 @@ public class Reloj{
     
     public static Reloj getInstance ()
     {
-      if(instance == null)
+      if(instance == null)git clon
       {
           instance = new Reloj();
         
